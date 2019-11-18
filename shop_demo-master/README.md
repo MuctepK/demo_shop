@@ -2,6 +2,5 @@
 
 После применения всех миграций загрузите сначала fixtures/dump.json, а потом распакуйте uploads.zip в папку source/uploads.
 
-Имя пользователя: admin, Operator, Courier, Manager
+Имя пользователя: admin, Operator, Courier, Manager, user
 Пароль: admin
-Для user - пароль user
